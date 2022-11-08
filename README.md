@@ -1,1 +1,1 @@
-# yunsup-ratings-reviews
+# SDC - API Service
