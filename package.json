@@ -1,0 +1,27 @@
+{
+  "name": "sdc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpp2205-sdc-registan/yunsup-ratings-reviews.git"
+  },
+  "author": "Yunsup Jung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpp2205-sdc-registan/yunsup-ratings-reviews/issues"
+  },
+  "homepage": "https://github.com/rpp2205-sdc-registan/yunsup-ratings-reviews#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3"
+  }
+}
